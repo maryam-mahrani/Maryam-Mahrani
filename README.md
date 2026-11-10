@@ -8,6 +8,6 @@ Tech Stack:
 - HTML, CSS, Bootstrap
 - JavaScript (Basic)
 - PHP, MySQL
-- WordPress, Git & GitHub
+- WordPress
 
 🌱 Always learning, building, and growing.
